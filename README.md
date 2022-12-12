@@ -1,6 +1,3 @@
-# Gcard
-
-Software Engineering Development Project
 
 
 ## Directory Structure
